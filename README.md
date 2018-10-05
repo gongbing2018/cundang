@@ -11,6 +11,9 @@ Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
 
+
+2018-10-05
+
   
   
   
